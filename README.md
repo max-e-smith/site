@@ -1,2 +1,2 @@
 # site
-Personal website and side project portfolio
+Personal website and portfolio
